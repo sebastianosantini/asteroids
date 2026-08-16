@@ -3,3 +3,4 @@ __pycache__/
 
 # Custom files
 game_state.jsonl
+game_events.jsonl
